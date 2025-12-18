@@ -1,1 +1,147 @@
+<!-- README.md (GitHub-safe HTML) -->
+
+<div align="center">
+  <img
+    src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"
+    alt="Python Logo"
+    width="260"
+  />
+  <h1>RED EYES GITHUB BOOTCAMP</h1>
+  <p><strong>A scenario-based Git & GitHub learning lab built in Python (Tkinter)</strong></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"/>
+    <img src="https://img.shields.io/badge/GUI-Tkinter-green.svg" alt="Tkinter"/>
+    <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg" alt="Cross-platform"/>
+    <img src="https://img.shields.io/badge/License-Educational-orange.svg" alt="Educational License"/>
+  </p>
+</div>
+
+<hr />
+
+<h2>📘 Overview</h2>
+<p>
+  <strong>RED EYES GITHUB BOOTCAMP</strong> is a classroom-ready desktop application that teaches
+  <strong>Git</strong> and <strong>GitHub</strong> workflows through realistic, real-world scenarios.
+  Instead of memorizing commands, learners practice the same decisions developers make on real teams:
+  branching safely, opening pull requests, resolving conflicts, and working with remotes.
+</p>
+<p>
+  This project was <strong>designed and built entirely by me</strong> as a capstone-level learning tool
+  and portfolio project.
+</p>
+
+<h2>✨ Key Features</h2>
+<ul>
+  <li><strong>100 questions</strong> across <strong>4 modules</strong> (25 questions per module)</li>
+  <li><strong>No repeated questions</strong> across modules</li>
+  <li><strong>Scenario-based explanations</strong> shown after incorrect answers (teaching-first design)</li>
+  <li><strong>Final Exam</strong> unlocked after completing all modules</li>
+  <li><strong>High-contrast GitHub-style UI</strong> with a 2×2 module dashboard</li>
+  <li><strong>Cross-platform</strong> (macOS / Windows / Linux)</li>
+</ul>
+
+<h2>📦 Modules</h2>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Module</th>
+      <th align="left">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📁 Git Basics</td>
+      <td>Repositories, staging, commits, history, best practices</td>
+    </tr>
+    <tr>
+      <td>🌿 Branching &amp; Merging</td>
+      <td>Feature branches, merge conflicts, team workflows</td>
+    </tr>
+    <tr>
+      <td>🌐 GitHub &amp; Remotes</td>
+      <td>Push/pull, PRs, forks, issues, collaboration patterns</td>
+    </tr>
+    <tr>
+      <td>⚙️ Advanced Git Workflow</td>
+      <td>Stash, cherry-pick, rebase safety, CI/CD awareness</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>🧪 Final Exam</h2>
+<p>
+  After completing all four modules, learners unlock a <strong>Final Exam</strong> that aggregates the full curriculum.
+  This mimics a bootcamp-style exit assessment and reinforces long-term understanding.
+</p>
+
+<h2>🖥️ Screenshots &amp; GIF Demos</h2>
+<p><em>Add your images to the folders below and update filenames if needed.</em></p>
+
+<pre>
+screenshots/
+├── banner.png
+├── gifs/
+│   ├── module_selection.gif
+│   ├── quiz_flow.gif
+│   └── scenario_feedback.gif
+├── dark/
+│   └── dashboard.png
+└── light/
+    └── dashboard.png
+</pre>
+
+<p><strong>Example embeds (uncomment after you add files):</strong></p>
+<!--
+<img src="screenshots/gifs/module_selection.gif" alt="Module selection demo" />
+<img src="screenshots/gifs/scenario_feedback.gif" alt="Scenario feedback demo" />
+-->
+
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>Python 3.10+</strong></li>
+  <li><strong>Tkinter</strong> for GUI</li>
+  <li>Modular structure: <code>app.py</code>, <code>questions.py</code>, <code>audio.py</code></li>
+</ul>
+
+<h2>▶️ Run Locally</h2>
+<ol>
+  <li>Clone the repository:</li>
+</ol>
+<pre><code>git clone https://github.com/yourusername/red-eyes-github-bootcamp.git
+cd red-eyes-github-bootcamp</code></pre>
+
+<ol start="2">
+  <li>Run the app:</li>
+</ol>
+<pre><code>python3 app.py</code></pre>
+
+<p><strong>macOS note:</strong> Use <code>python3</code> (not <code>python</code>).</p>
+
+<h2>📂 Project Structure</h2>
+<pre><code>.
+├── app.py
+├── questions.py
+├── audio.py
+├── assets/
+│   └── sounds/
+├── screenshots/
+└── README.md
+</code></pre>
+
+<h2>🌐 GitHub Pages Description</h2>
+<p>
+  <strong>RED EYES GITHUB BOOTCAMP</strong> is a Python-based interactive learning lab that teaches Git and GitHub through
+  real-world scenarios, professional workflows, and decision-based feedback.
+</p>
+
+<h2>📜 License</h2>
+<p>
+  Released for <strong>educational and demonstration purposes</strong>.
+</p>
+
+<hr />
+<p align="center">
+  <em>“Understanding real consequences builds real confidence.”</em>
+</p>
 
