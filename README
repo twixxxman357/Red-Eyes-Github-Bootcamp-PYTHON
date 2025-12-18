@@ -1,0 +1,109 @@
+<p align="center">
+    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"
+         alt="Python Logo"
+         width="280">
+  </p>
+  
+  <h1 align="center">RED EYES GITHUB BOOTCAMP</h1>
+  
+  <p align="center">
+    A scenario-based Git & GitHub learning lab built in Python
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" />
+    <img src="https://img.shields.io/badge/GUI-Tkinter-green.svg" />
+    <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg" />
+    <img src="https://img.shields.io/badge/License-Educational-orange.svg" />
+  </p>
+  
+  ---
+  
+  ## 📘 Project Overview
+  
+  **RED EYES GitHub Bootcamp** is a scenario-based **desktop learning application** designed to teach **Git and GitHub workflows** the way they are actually used in professional software development environments.
+  
+  Rather than focusing on memorization of commands, this project emphasizes **decision-making**, **workflow safety**, and **real-world collaboration scenarios**. Learners are placed into situations they would encounter on real teams and are guided through best practices using immediate feedback and explanations.
+  
+  This project was **designed and built entirely by me**, from the curriculum and questions to the Python application and user interface.
+  
+  ---
+  
+  ## 🎯 What This Project Is About
+  
+  This project exists to answer a simple question:
+  
+  > *How do developers really use Git and GitHub on teams?*
+  
+  The lab teaches:
+  - When to branch (and why)
+  - How pull requests protect production
+  - How to handle merge conflicts safely
+  - Why rebasing and force-pushing can be dangerous
+  - How CI/CD fits into modern workflows
+  - How teams collaborate without breaking each other’s work
+  
+  Every question represents a **real decision** a developer must make.
+  
+  ---
+  
+  ## 🧠 Learning Approach
+  
+  - 100 total questions
+  - 4 structured learning modules
+  - No repeated questions across modules
+  - 50+ real-world scenario-based questions
+  - Scenario-based explanations after incorrect answers
+  - Final exam unlocked after completing all modules
+  
+  Mistakes are treated as **learning moments**, not failures.
+  
+  ---
+  
+  ## 📦 Curriculum Modules
+  
+  | Module | Focus |
+  |------|------|
+  | Git Basics | Core version control concepts |
+  | Branching & Merging | Real-world collaboration scenarios |
+  | GitHub & Remotes | Pull requests, forks, issues |
+  | Advanced Git Workflow | CI/CD, rebasing, stashing |
+  
+  Each module contains **25 unique questions**.
+  
+  ---
+  
+  ## 🧪 Final Exam
+  
+  After completing all four modules, learners unlock a **Final Exam** that combines all 100 questions. This simulates a **bootcamp exit assessment** and reinforces long-term understanding.
+  
+  ---
+  
+  ## 🖥️ Application Features
+  
+  - GitHub-inspired dark UI
+  - 2×2 module grid layout (no scrolling)
+  - Module icons for clarity
+  - Progress bar and live score tracking
+  - Scenario-based explanation popups
+  - macOS-safe window handling
+  - Cross-platform (macOS, Windows, Linux)
+  
+  ---
+  
+  ## 🎥 Screenshots & Demos
+  
+  > *(Add your images to the `/screenshots` folder and update paths if needed)*
+  
+  ```text
+  screenshots/
+  ├── banner.png
+  ├── gifs/
+  │   ├── module_selection.gif
+  │   ├── quiz_flow.gif
+  │   └── scenario_feedback.gif
+  ├── dark/
+  │   └── dashboard.png
+  ├── light/
+  │   └── dashboard.png
+  
